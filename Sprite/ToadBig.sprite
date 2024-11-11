@@ -1,0 +1,953 @@
+{
+	"Frames" : 
+	[
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 29.0",
+			"Rect" : "0 1 16 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 30.0",
+			"Rect" : "17 0 33 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 28.0",
+			"Rect" : "34 2 50 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -16"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 29.0",
+			"Rect" : "51 1 66 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 30.0",
+			"Rect" : "67 0 83 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 30.0",
+			"Rect" : "84 0 101 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 30.0",
+			"Rect" : "102 0 119 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 22.0",
+			"Rect" : "120 8 136 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -10"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 29.0",
+			"Rect" : "137 3 152 29",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 29.0",
+			"Rect" : "153 3 169 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 24.0",
+			"Rect" : "170 3 186 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -12"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 24.0",
+			"Rect" : "187 3 205 28",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -12"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 23.0",
+			"Rect" : "206 4 222 30",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -11"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "0 31 16 60",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "17 31 33 60",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "34 31 50 60",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "51 31 67 60",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "68 31 84 60",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "85 31 101 60",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "102 31 119 60",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "120 31 137 60",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "11.0 30.0",
+			"Rect" : "0 61 19 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "10.0 28.0",
+			"Rect" : "20 63 38 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -16"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "11.0 29.0",
+			"Rect" : "39 62 57 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 29.0",
+			"Rect" : "58 62 74 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 30.0",
+			"Rect" : "75 61 91 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 28.0",
+			"Rect" : "92 63 109 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -16"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 29.0",
+			"Rect" : "110 62 126 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 30.0",
+			"Rect" : "127 61 144 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 22.0",
+			"Rect" : "145 69 161 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -10"
+				}
+			]
+		},
+		{
+			"FaceAngle" : -35,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 29.0",
+			"Rect" : "162 62 177 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-3 -16"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "178 62 195 91",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-2 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 1,
+			"Offset" : "8.0 26.0",
+			"Rect" : "0 95 16 119",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -14"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 1,
+			"Offset" : "9.0 27.0",
+			"Rect" : "17 94 34 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -15"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 1,
+			"Offset" : "9.0 27.0",
+			"Rect" : "35 94 52 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -15"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 3,
+			"Offset" : "8.0 29.0",
+			"Rect" : "53 92 69 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 2,
+			"Offset" : "7.0 29.0",
+			"Rect" : "70 92 85 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 1,
+			"Offset" : "8.0 29.0",
+			"Rect" : "86 92 102 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 29.0",
+			"Rect" : "103 92 118 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 2,
+			"Offset" : "11.0 29.0",
+			"Rect" : "119 92 136 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-3 -17"
+				}
+			]
+		},
+		{
+			"FaceAngle" : -35,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 29.0",
+			"Rect" : "137 92 153 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-3 -16"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 17.0",
+			"Rect" : "154 110 169 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -5"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 21.0",
+			"Rect" : "0 122 17 143",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -9"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 90,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 19.0",
+			"Rect" : "18 124 39 141",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "7 -5"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 180,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 21.0",
+			"Rect" : "40 122 57 143",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "2 2"
+				}
+			]
+		},
+		{
+			"FaceAngle" : -90,
+			"FaceDirection" : 0,
+			"Offset" : "11.0 19.0",
+			"Rect" : "58 124 79 141",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-6 -2"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 21.0",
+			"Rect" : "80 122 97 143",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -9"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 15,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 18.0",
+			"Rect" : "98 125 116 143",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "3 -5"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 3,
+			"Offset" : "8.0 30.0",
+			"Rect" : "0 144 16 174",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 2,
+			"Offset" : "10.0 30.0",
+			"Rect" : "17 144 34 174",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "1 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 1,
+			"Offset" : "8.0 30.0",
+			"Rect" : "35 144 51 174",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 30.0",
+			"Rect" : "52 144 69 174",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -18"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 28.0",
+			"Rect" : "231 93 247 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -16"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : -1,
+			"Offset" : "6.0 17.0",
+			"Rect" : "170 104 191 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -7"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : -1,
+			"Offset" : "8.0 27.0",
+			"Rect" : "192 94 213 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -20"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : -1,
+			"Offset" : "9.0 29.0",
+			"Rect" : "214 92 230 121",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -22"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "138 31 154 60",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "155 31 171 60",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "196 62 212 91",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 30.0",
+			"Rect" : "213 61 230 91",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 28.0",
+			"Rect" : "231 63 247 91",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "248 62 264 91",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 30.0",
+			"Rect" : "265 61 283 91",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "10.0 22.0",
+			"Rect" : "284 69 303 91",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "9.0 29.0",
+			"Rect" : "304 62 319 91",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "8.0 28.0",
+			"Rect" : "320 63 336 91",
+			"SubPositions" : null
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "48,49,50,51",
+			"Name" : "AirSpin"
+		},
+		{
+			"Frames" : "29",
+			"Name" : "CarryCrouch"
+		},
+		{
+			"Frames" : "24",
+			"Name" : "CarryIdle"
+		},
+		{
+			"Frames" : "28",
+			"Name" : "CarryJump"
+		},
+		{
+			"Frames" : "30",
+			"Name" : "CarryLookUp"
+		},
+		{
+			"Frames" : "25,26,27",
+			"Name" : "CarryRun"
+		},
+		{
+			"Frames" : "19,20",
+			"Name" : "CarrySwim"
+		},
+		{
+			"Frames" : "8,9",
+			"Name" : "Climb"
+		},
+		{
+			"Frames" : "33,34",
+			"Name" : "ClimbBack"
+		},
+		{
+			"Frames" : "8",
+			"Name" : "ClimbIdle"
+		},
+		{
+			"Frames" : "7",
+			"Name" : "Crouch"
+		},
+		{
+			"Delay" : 2,
+			"Frames" : "42,43,44,45,46,47",
+			"Name" : "GroundPound"
+		},
+		{
+			"Frames" : "41",
+			"Name" : "Head"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "5",
+			"Name" : "Jump"
+		},
+		{
+			"Frames" : "6",
+			"Name" : "JumpDown"
+		},
+		{
+			"Frames" : "31",
+			"Name" : "Kick"
+		},
+		{
+			"Frames" : "40",
+			"Name" : "LookUp"
+		},
+		{
+			"Frames" : "10",
+			"Name" : "Ride"
+		},
+		{
+			"Frames" : "11,12",
+			"Name" : "RideCommand"
+		},
+		{
+			"Frames" : "1,2,3",
+			"Name" : "Run"
+		},
+		{
+			"Frames" : "21,22,23",
+			"Name" : "RunMax"
+		},
+		{
+			"Frames" : "4",
+			"Name" : "Skid"
+		},
+		{
+			"Frames" : "35,36,37,38",
+			"Name" : "SpinJump"
+		},
+		{
+			"Frames" : "13,14,15,16,17,18",
+			"Name" : "Swim"
+		},
+		{
+			"Frames" : "13,14",
+			"Name" : "SwimIdle"
+		},
+		{
+			"Frames" : "65",
+			"Name" : "Throw"
+		},
+		{
+			"Frames" : "53,54,55",
+			"Name" : "ToGiant"
+		},
+		{
+			"Frames" : "63",
+			"Name" : "VCarryCrouch"
+		},
+		{
+			"Frames" : "58",
+			"Name" : "VCarryIdle"
+		},
+		{
+			"Frames" : "62",
+			"Name" : "VCarryJump"
+		},
+		{
+			"Frames" : "64",
+			"Name" : "VCarryLookUp"
+		},
+		{
+			"Frames" : "59,60,61",
+			"Name" : "VCarryRun"
+		},
+		{
+			"Frames" : "56,57",
+			"Name" : "VCarrySwim"
+		},
+		{
+			"Frames" : "1,2,3",
+			"Name" : "Walk"
+		},
+		{
+			"Frames" : "39",
+			"Name" : "WallSlide"
+		}
+	],
+	"SubPositions" : "Helmet",
+	"Version" : "Neoarc's Sprite v2.0"
+}
