@@ -574,7 +574,7 @@
 			]
 		},
 		{
-			"FaceAngle" : 90,
+			"FaceAngle" : 0,
 			"FaceDirection" : 0,
 			"Offset" : "16.0 42.0",
 			"Rect" : "297 129 329 171",
@@ -582,12 +582,12 @@
 			[
 				{
 					"Name" : "Helmet",
-					"Position" : "8 -2"
+					"Position" : "1 -15"
 				}
 			]
 		},
 		{
-			"FaceAngle" : 45,
+			"FaceAngle" : 0,
 			"FaceDirection" : 0,
 			"Offset" : "16.0 42.0",
 			"Rect" : "330 129 362 171",
@@ -595,7 +595,7 @@
 			[
 				{
 					"Name" : "Helmet",
-					"Position" : "3 -13"
+					"Position" : "1 -15"
 				}
 			]
 		},
@@ -856,8 +856,9 @@
 			"Name" : "SwimIdle"
 		},
 		{
+			"Delay" : 4,
 			"Frames" : "44,45,46",
-			"Name" : "ToGiant"
+			"Name" : "ThrowFire"
 		},
 		{
 			"Frames" : "0,1,2,3",
