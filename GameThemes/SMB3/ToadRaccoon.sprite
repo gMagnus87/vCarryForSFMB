@@ -897,6 +897,90 @@
 					"Position" : "-1 -13"
 				}
 			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "0 354 32 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "33 354 65 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "66 354 98 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "99 354 131 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "132 354 164 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "165 354 197 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "132 354 164 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "198 354 230 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "231 354 263 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "264 354 296 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "297 354 329 386",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "330 354 362 386",
+			"SubPositions" : null
 		}
 	],
 	"NamedAnimations" : 
@@ -975,6 +1059,10 @@
 			"Name" : "Kick"
 		},
 		{
+			"Frames" : "69,70",
+			"Name" : "Lift"
+		},
+		{
 			"Frames" : "42",
 			"Name" : "LookUp"
 		},
@@ -1002,6 +1090,10 @@
 		{
 			"Frames" : "66,67,68",
 			"Name" : "RaccoonFly"
+		},
+		{
+			"Frames" : "77,78,79",
+			"Name" : "RaccoonVCarryFloat"
 		},
 		{
 			"Frames" : "10",
@@ -1035,6 +1127,26 @@
 		{
 			"Frames" : "13,14,15,16",
 			"Name" : "SwimIdle"
+		},
+		{
+			"Frames" : "80",
+			"Name" : "Throw"
+		},
+		{
+			"Frames" : "71",
+			"Name" : "VCarryCrouch"
+		},
+		{
+			"Frames" : "72",
+			"Name" : "VCarryIdle"
+		},
+		{
+			"Frames" : "76",
+			"Name" : "VCarryJump"
+		},
+		{
+			"Frames" : "72,73,74,75",
+			"Name" : "VCarryRun"
 		},
 		{
 			"Frames" : "0,1,2,3",

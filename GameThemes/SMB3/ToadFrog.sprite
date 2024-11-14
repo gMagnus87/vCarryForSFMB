@@ -676,6 +676,62 @@
 					"Position" : "3 -8"
 				}
 			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "0 268 32 300",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "33 268 65 300",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "66 268 98 300",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "99 268 131 300",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "132 268 164 300",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "165 268 197 300",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "132 268 164 300",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "16.0 32.0",
+			"Rect" : "198 268 230 300",
+			"SubPositions" : null
 		}
 	],
 	"NamedAnimations" : 
@@ -770,6 +826,10 @@
 			"Name" : "Kick"
 		},
 		{
+			"Frames" : "52,53",
+			"Name" : "Lift"
+		},
+		{
 			"Frames" : "40",
 			"Name" : "LookUp"
 		},
@@ -805,6 +865,26 @@
 		{
 			"Frames" : "22,23",
 			"Name" : "SwimIdle"
+		},
+		{
+			"Frames" : "59",
+			"Name" : "Throw"
+		},
+		{
+			"Frames" : "54",
+			"Name" : "VCarryCrouch"
+		},
+		{
+			"Frames" : "55",
+			"Name" : "VCarryIdle"
+		},
+		{
+			"Frames" : "57",
+			"Name" : "VCarryJump"
+		},
+		{
+			"Frames" : "55,56,57,58",
+			"Name" : "VCarryRun"
 		},
 		{
 			"Frames" : "0,1,2,3",

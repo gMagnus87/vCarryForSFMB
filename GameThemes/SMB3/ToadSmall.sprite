@@ -580,6 +580,48 @@
 					"Position" : "-1 -8"
 				}
 			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 15.0",
+			"Rect" : "0 101 13 116",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 16.0",
+			"Rect" : "14 100 27 116",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 12.0",
+			"Rect" : "28 104 42 116",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 15.0",
+			"Rect" : "43 101 55 116",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "7.0 16.0",
+			"Rect" : "56 100 69 116",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "6.0 15.0",
+			"Rect" : "70 101 84 116",
+			"SubPositions" : null
 		}
 	],
 	"NamedAnimations" : 
@@ -665,6 +707,10 @@
 			"Name" : "Kick"
 		},
 		{
+			"Frames" : "44,45",
+			"Name" : "Lift"
+		},
+		{
 			"Frames" : "31",
 			"Name" : "LookUp"
 		},
@@ -699,6 +745,26 @@
 		{
 			"Frames" : "11,12",
 			"Name" : "SwimIdle"
+		},
+		{
+			"Frames" : "49",
+			"Name" : "Throw"
+		},
+		{
+			"Frames" : "46",
+			"Name" : "VCarryCrouch"
+		},
+		{
+			"Frames" : "47",
+			"Name" : "VCarryIdle"
+		},
+		{
+			"Frames" : "48",
+			"Name" : "VCarryJump"
+		},
+		{
+			"Frames" : "47,48",
+			"Name" : "VCarryRun"
 		},
 		{
 			"Frames" : "0,1",
